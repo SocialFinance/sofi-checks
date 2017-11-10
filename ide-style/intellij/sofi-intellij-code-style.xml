@@ -23,6 +23,20 @@
       <emptyLine />
       <package name="com.sofi" withSubpackages="true" static="false" />
       <emptyLine />
+      <package name="configs" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="controllers" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="exceptions" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="models" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="services" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="views" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="play" withSubpackages="true" static="false" />
+      <emptyLine />
       <package name="" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="java" withSubpackages="true" static="false" />
